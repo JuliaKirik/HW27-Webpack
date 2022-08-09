@@ -8,7 +8,6 @@
     "serve": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "MartynenkoDV",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.18.6",

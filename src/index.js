@@ -1,8 +1,8 @@
 import {Teacher} from './Teacher';
 import {Student} from './Student';
 
-const student = new Student('Victor', 20, 'male', 'Guitar, footbal, games...');
-const teacher = new Teacher('John', 55, 'male', 'Guns, cars, teach, etc.', student);
+const student = new Student('Julia', 28, 'female', 'music, JS, games...');
+const teacher = new Teacher('Vany', 59, 'male', 'cars, music, sport...', student);
 
 console.log(teacher);
 console.log(student);
